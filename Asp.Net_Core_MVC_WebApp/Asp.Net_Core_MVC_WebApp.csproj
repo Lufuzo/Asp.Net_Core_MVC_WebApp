@@ -7,10 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="wwwroot\css\FileStyle.css" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\_Services\_Services.csproj" />
   </ItemGroup>
 

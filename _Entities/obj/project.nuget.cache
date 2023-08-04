@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "LJtFm66ON7I0s8LJNCD16NU6cIHyCP3ZWWQkwI7Ao/JOHeHQO8sMiYHiHRHhXfva261Li0ZOWZ1+ALrnyBmueg==",
+  "dgSpecHash": "lU78gA+MYPlAhcGsrmSKeWK8rD4UVSfCH4M2DCN/KXzNn04w28GfDPMrDrc6fRvLXagZVC0+rSULB71bJhqCGA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_Core_MVC_WebApp\\Asp.Net_Core_MVC_WebApp\\_Entities\\_Entities.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_MVC_WebApp_New\\_Entities\\_Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lungelo Mbalane\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\Lungelo Mbalane\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\Lungelo Mbalane\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

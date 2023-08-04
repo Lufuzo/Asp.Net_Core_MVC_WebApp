@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_Core_MVC_WebApp\\Asp.Net_Core_MVC_WebApp\\_Reposatory\\_Reposatory.csproj": {}
+    "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_MVC_WebApp_New\\_Reposatory\\_Reposatory.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_Core_MVC_WebApp\\Asp.Net_Core_MVC_WebApp\\_Contracts\\_Contracts.csproj": {
+    "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_MVC_WebApp_New\\_Contracts\\_Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_Core_MVC_WebApp\\Asp.Net_Core_MVC_WebApp\\_Contracts\\_Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_MVC_WebApp_New\\_Contracts\\_Contracts.csproj",
         "projectName": "_Contracts",
-        "projectPath": "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_Core_MVC_WebApp\\Asp.Net_Core_MVC_WebApp\\_Contracts\\_Contracts.csproj",
+        "projectPath": "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_MVC_WebApp_New\\_Contracts\\_Contracts.csproj",
         "packagesPath": "C:\\Users\\Lungelo Mbalane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_Core_MVC_WebApp\\Asp.Net_Core_MVC_WebApp\\_Contracts\\obj\\",
+        "outputPath": "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_MVC_WebApp_New\\_Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lungelo Mbalane\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_Core_MVC_WebApp\\Asp.Net_Core_MVC_WebApp\\_Reposatory\\_Reposatory.csproj": {
+    "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_MVC_WebApp_New\\_Reposatory\\_Reposatory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_Core_MVC_WebApp\\Asp.Net_Core_MVC_WebApp\\_Reposatory\\_Reposatory.csproj",
+        "projectUniqueName": "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_MVC_WebApp_New\\_Reposatory\\_Reposatory.csproj",
         "projectName": "_Reposatory",
-        "projectPath": "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_Core_MVC_WebApp\\Asp.Net_Core_MVC_WebApp\\_Reposatory\\_Reposatory.csproj",
+        "projectPath": "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_MVC_WebApp_New\\_Reposatory\\_Reposatory.csproj",
         "packagesPath": "C:\\Users\\Lungelo Mbalane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_Core_MVC_WebApp\\Asp.Net_Core_MVC_WebApp\\_Reposatory\\obj\\",
+        "outputPath": "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_MVC_WebApp_New\\_Reposatory\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lungelo Mbalane\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_Core_MVC_WebApp\\Asp.Net_Core_MVC_WebApp\\_Contracts\\_Contracts.csproj": {
-                "projectPath": "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_Core_MVC_WebApp\\Asp.Net_Core_MVC_WebApp\\_Contracts\\_Contracts.csproj"
+              "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_MVC_WebApp_New\\_Contracts\\_Contracts.csproj": {
+                "projectPath": "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_MVC_WebApp_New\\_Contracts\\_Contracts.csproj"
               }
             }
           }

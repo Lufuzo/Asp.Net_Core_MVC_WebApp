@@ -18,6 +18,8 @@ body {
     background: #fff;
     padding-top: 2px;
     padding-bottom: 20px;
+    /*border: 150px solid #000;*/ /* 2px width, solid style, black color */
+   
 }
 .button {
     border: 1px solid #fff;

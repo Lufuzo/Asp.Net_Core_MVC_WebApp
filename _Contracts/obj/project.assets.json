@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_Core_MVC_WebApp\\Asp.Net_Core_MVC_WebApp\\_Contracts\\_Contracts.csproj",
+      "projectUniqueName": "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_MVC_WebApp_New\\_Contracts\\_Contracts.csproj",
       "projectName": "_Contracts",
-      "projectPath": "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_Core_MVC_WebApp\\Asp.Net_Core_MVC_WebApp\\_Contracts\\_Contracts.csproj",
+      "projectPath": "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_MVC_WebApp_New\\_Contracts\\_Contracts.csproj",
       "packagesPath": "C:\\Users\\Lungelo Mbalane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_Core_MVC_WebApp\\Asp.Net_Core_MVC_WebApp\\_Contracts\\obj\\",
+      "outputPath": "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_MVC_WebApp_New\\_Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lungelo Mbalane\\AppData\\Roaming\\NuGet\\NuGet.Config",

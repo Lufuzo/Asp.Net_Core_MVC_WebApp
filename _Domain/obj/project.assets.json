@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_Core_MVC_WebApp\\Asp.Net_Core_MVC_WebApp\\_Domain\\_Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_MVC_WebApp_New\\_Domain\\_Domain.csproj",
       "projectName": "_Domain",
-      "projectPath": "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_Core_MVC_WebApp\\Asp.Net_Core_MVC_WebApp\\_Domain\\_Domain.csproj",
+      "projectPath": "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_MVC_WebApp_New\\_Domain\\_Domain.csproj",
       "packagesPath": "C:\\Users\\Lungelo Mbalane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_Core_MVC_WebApp\\Asp.Net_Core_MVC_WebApp\\_Domain\\obj\\",
+      "outputPath": "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_MVC_WebApp_New\\_Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lungelo Mbalane\\AppData\\Roaming\\NuGet\\NuGet.Config",

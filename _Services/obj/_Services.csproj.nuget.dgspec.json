@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_Core_MVC_WebApp\\Asp.Net_Core_MVC_WebApp\\_Services\\_Services.csproj": {}
+    "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_MVC_WebApp_New\\_Services\\_Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_Core_MVC_WebApp\\Asp.Net_Core_MVC_WebApp\\_Services\\_Services.csproj": {
+    "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_MVC_WebApp_New\\_Services\\_Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_Core_MVC_WebApp\\Asp.Net_Core_MVC_WebApp\\_Services\\_Services.csproj",
+        "projectUniqueName": "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_MVC_WebApp_New\\_Services\\_Services.csproj",
         "projectName": "_Services",
-        "projectPath": "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_Core_MVC_WebApp\\Asp.Net_Core_MVC_WebApp\\_Services\\_Services.csproj",
+        "projectPath": "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_MVC_WebApp_New\\_Services\\_Services.csproj",
         "packagesPath": "C:\\Users\\Lungelo Mbalane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_Core_MVC_WebApp\\Asp.Net_Core_MVC_WebApp\\_Services\\obj\\",
+        "outputPath": "C:\\Users\\Lungelo Mbalane\\Documents\\Visual Studio 2022\\Asp.Net_MVC_WebApp_New\\_Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lungelo Mbalane\\AppData\\Roaming\\NuGet\\NuGet.Config",

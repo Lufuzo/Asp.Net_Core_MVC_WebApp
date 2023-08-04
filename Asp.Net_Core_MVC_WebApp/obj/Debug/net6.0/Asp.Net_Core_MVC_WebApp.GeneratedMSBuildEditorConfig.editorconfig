@@ -8,41 +8,41 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Asp.Net_Core_MVC_WebApp
 build_property.RootNamespace = Asp.Net_Core_MVC_WebApp
-build_property.ProjectDir = C:\Users\Lungelo Mbalane\Documents\Visual Studio 2022\Asp.Net_Core_MVC_WebApp\Asp.Net_Core_MVC_WebApp\Asp.Net_Core_MVC_WebApp\
+build_property.ProjectDir = C:\Users\Lungelo Mbalane\Documents\Visual Studio 2022\Asp.Net_MVC_WebApp_New\Asp.Net_Core_MVC_WebApp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Lungelo Mbalane\Documents\Visual Studio 2022\Asp.Net_Core_MVC_WebApp\Asp.Net_Core_MVC_WebApp\Asp.Net_Core_MVC_WebApp
+build_property.MSBuildProjectDirectory = C:\Users\Lungelo Mbalane\Documents\Visual Studio 2022\Asp.Net_MVC_WebApp_New\Asp.Net_Core_MVC_WebApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Lungelo Mbalane/Documents/Visual Studio 2022/Asp.Net_Core_MVC_WebApp/Asp.Net_Core_MVC_WebApp/Asp.Net_Core_MVC_WebApp/Views/File/Index.cshtml]
+[C:/Users/Lungelo Mbalane/Documents/Visual Studio 2022/Asp.Net_MVC_WebApp_New/Asp.Net_Core_MVC_WebApp/Views/File/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lungelo Mbalane/Documents/Visual Studio 2022/Asp.Net_Core_MVC_WebApp/Asp.Net_Core_MVC_WebApp/Asp.Net_Core_MVC_WebApp/Views/Home/Index.cshtml]
+[C:/Users/Lungelo Mbalane/Documents/Visual Studio 2022/Asp.Net_MVC_WebApp_New/Asp.Net_Core_MVC_WebApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lungelo Mbalane/Documents/Visual Studio 2022/Asp.Net_Core_MVC_WebApp/Asp.Net_Core_MVC_WebApp/Asp.Net_Core_MVC_WebApp/Views/Home/Privacy.cshtml]
+[C:/Users/Lungelo Mbalane/Documents/Visual Studio 2022/Asp.Net_MVC_WebApp_New/Asp.Net_Core_MVC_WebApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lungelo Mbalane/Documents/Visual Studio 2022/Asp.Net_Core_MVC_WebApp/Asp.Net_Core_MVC_WebApp/Asp.Net_Core_MVC_WebApp/Views/Shared/Error.cshtml]
+[C:/Users/Lungelo Mbalane/Documents/Visual Studio 2022/Asp.Net_MVC_WebApp_New/Asp.Net_Core_MVC_WebApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lungelo Mbalane/Documents/Visual Studio 2022/Asp.Net_Core_MVC_WebApp/Asp.Net_Core_MVC_WebApp/Asp.Net_Core_MVC_WebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Lungelo Mbalane/Documents/Visual Studio 2022/Asp.Net_MVC_WebApp_New/Asp.Net_Core_MVC_WebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lungelo Mbalane/Documents/Visual Studio 2022/Asp.Net_Core_MVC_WebApp/Asp.Net_Core_MVC_WebApp/Asp.Net_Core_MVC_WebApp/Views/_ViewImports.cshtml]
+[C:/Users/Lungelo Mbalane/Documents/Visual Studio 2022/Asp.Net_MVC_WebApp_New/Asp.Net_Core_MVC_WebApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lungelo Mbalane/Documents/Visual Studio 2022/Asp.Net_Core_MVC_WebApp/Asp.Net_Core_MVC_WebApp/Asp.Net_Core_MVC_WebApp/Views/_ViewStart.cshtml]
+[C:/Users/Lungelo Mbalane/Documents/Visual Studio 2022/Asp.Net_MVC_WebApp_New/Asp.Net_Core_MVC_WebApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lungelo Mbalane/Documents/Visual Studio 2022/Asp.Net_Core_MVC_WebApp/Asp.Net_Core_MVC_WebApp/Asp.Net_Core_MVC_WebApp/Views/Shared/_Layout.cshtml]
+[C:/Users/Lungelo Mbalane/Documents/Visual Studio 2022/Asp.Net_MVC_WebApp_New/Asp.Net_Core_MVC_WebApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-k756vyiy34

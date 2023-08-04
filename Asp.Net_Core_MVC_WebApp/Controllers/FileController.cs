@@ -32,7 +32,7 @@ namespace Asp.Net_Core_MVC_WebApp.Controllers
                 if (!isValidCsv)
                 {
                     // Handle the case when the file is not a valid CSV
-                    ModelState.AddModelError("CsvFile", "The uploaded file is not in a valid CSV format.");
+                    ViewBag.ErrorMessage = "The uploaded file is not in a valid CSV format.";
                     return View();
                 }
 

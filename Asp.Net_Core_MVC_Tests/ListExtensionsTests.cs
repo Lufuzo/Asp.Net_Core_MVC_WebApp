@@ -26,10 +26,10 @@ namespace Asp.Net_Core_MVC_Tests
             List<int> csvData = new List<int> { 2, 2, 2, 2, 2 };
 
             // Act
-            int leader = csvData.File();
+            int file = csvData.File();
 
             // Assert
-            Assert.AreEqual(2, leader);
+            Assert.AreEqual(2, file);
         }
 
         [Test]
@@ -76,14 +76,14 @@ namespace Asp.Net_Core_MVC_Tests
                 HttpContext = httpContextMock.Object
             };
 
-            // Create an instance of the LeaderController with the mock ControllerContext
-            var fileController = new FileController()
+          
+            var leaderController = new FileController()
             {
                 ControllerContext = controllerContext
             };
 
             // Act
-            var result = fileController.Index(null) as ViewResult;
+            var result = leaderController.Index(null) as ViewResult;
 
             // Assert
             Assert.IsNotNull(result);

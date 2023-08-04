@@ -10,3 +10,15 @@ C:\Users\Lungelo Mbalane\Documents\Visual Studio 2022\Asp.Net_Core_MVC_WebApp\As
 C:\Users\Lungelo Mbalane\Documents\Visual Studio 2022\Asp.Net_Core_MVC_WebApp\Asp.Net_Core_MVC_WebApp\_Services\obj\Debug\net6.0\refint\_Services.dll
 C:\Users\Lungelo Mbalane\Documents\Visual Studio 2022\Asp.Net_Core_MVC_WebApp\Asp.Net_Core_MVC_WebApp\_Services\obj\Debug\net6.0\_Services.pdb
 C:\Users\Lungelo Mbalane\Documents\Visual Studio 2022\Asp.Net_Core_MVC_WebApp\Asp.Net_Core_MVC_WebApp\_Services\obj\Debug\net6.0\ref\_Services.dll
+C:\Users\Lungelo Mbalane\Documents\Visual Studio 2022\Asp.Net_MVC_WebApp_New\_Services\bin\Debug\net6.0\_Services.deps.json
+C:\Users\Lungelo Mbalane\Documents\Visual Studio 2022\Asp.Net_MVC_WebApp_New\_Services\bin\Debug\net6.0\_Services.dll
+C:\Users\Lungelo Mbalane\Documents\Visual Studio 2022\Asp.Net_MVC_WebApp_New\_Services\bin\Debug\net6.0\_Services.pdb
+C:\Users\Lungelo Mbalane\Documents\Visual Studio 2022\Asp.Net_MVC_WebApp_New\_Services\obj\Debug\net6.0\_Services.csproj.AssemblyReference.cache
+C:\Users\Lungelo Mbalane\Documents\Visual Studio 2022\Asp.Net_MVC_WebApp_New\_Services\obj\Debug\net6.0\_Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lungelo Mbalane\Documents\Visual Studio 2022\Asp.Net_MVC_WebApp_New\_Services\obj\Debug\net6.0\_Services.AssemblyInfoInputs.cache
+C:\Users\Lungelo Mbalane\Documents\Visual Studio 2022\Asp.Net_MVC_WebApp_New\_Services\obj\Debug\net6.0\_Services.AssemblyInfo.cs
+C:\Users\Lungelo Mbalane\Documents\Visual Studio 2022\Asp.Net_MVC_WebApp_New\_Services\obj\Debug\net6.0\_Services.csproj.CoreCompileInputs.cache
+C:\Users\Lungelo Mbalane\Documents\Visual Studio 2022\Asp.Net_MVC_WebApp_New\_Services\obj\Debug\net6.0\_Services.dll
+C:\Users\Lungelo Mbalane\Documents\Visual Studio 2022\Asp.Net_MVC_WebApp_New\_Services\obj\Debug\net6.0\refint\_Services.dll
+C:\Users\Lungelo Mbalane\Documents\Visual Studio 2022\Asp.Net_MVC_WebApp_New\_Services\obj\Debug\net6.0\_Services.pdb
+C:\Users\Lungelo Mbalane\Documents\Visual Studio 2022\Asp.Net_MVC_WebApp_New\_Services\obj\Debug\net6.0\ref\_Services.dll
