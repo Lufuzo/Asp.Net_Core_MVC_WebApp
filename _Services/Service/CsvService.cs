@@ -17,15 +17,14 @@ namespace _Services.Service
             if (file == null || file.Length == 0)
                 return false;
 
-            // Check the file extension (allowing multiple possible extensions)
+            // Check the file extension 
             var allowedExtensions = new[] { ".csv", ".txt" };
             var fileExtension = Path.GetExtension(file.FileName).ToLowerInvariant();
 
             if (!allowedExtensions.Contains(fileExtension))
                 return false;
 
-            // You can add additional validation logic here if needed
-            // For example, checking file size or reading the file content to validate its format.
+            
 
             return true;
         }
