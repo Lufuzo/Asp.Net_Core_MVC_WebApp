@@ -26,12 +26,12 @@ namespace Asp.Net_Core_MVC_WebApp.Controllers
         {
             if (model.CsvFile != null && model.CsvFile.Length > 0)
             {
-                // Check if the uploaded file is a valid CSV
+               
                 bool isValidCsv = csvService.IsCsvFileValid(model.CsvFile);
 
                 if (!isValidCsv)
                 {
-                    // Handle the case when the file is not a valid CSV
+                    
                     ViewBag.ErrorMessage = "The uploaded file is not in a valid CSV format.";
                     return View();
                 }
