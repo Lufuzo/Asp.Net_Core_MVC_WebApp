@@ -1,0 +1,34 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background: #fff;
+    padding-top: 2px;
+    padding-bottom: 20px;
+}
+.button {
+    border: 1px solid #fff;
+    outline: none;
+    border-radius: 0;
+    padding: 10px 10px;
+    font-weight: 400;
+    background: #2a3843;
+    color: #fff;
+    -webkit-appearance: none;
+}
+.button:hover, .button:focus {
+        color: #fff !important;
+}

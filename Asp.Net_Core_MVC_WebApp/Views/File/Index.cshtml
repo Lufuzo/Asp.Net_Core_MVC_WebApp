@@ -1,0 +1,33 @@
+﻿@model Asp.Net_Core_MVC_WebApp.Models.FileModel
+@using Asp.Net_Core_MVC_WebApp.Extensions
+
+
+
+<div class="text-center">
+    <form method="post" enctype="multipart/form-data">
+        <div class="mb-3">
+            <label for="csvFile" class="form-label">Choose a CSV File</label>
+            <input type="file" class="form-control" id="csvFile" name="CsvFile">
+        </div>
+        <button type="submit" class="btn btn-primary">Upload</button>
+    </form>
+
+@if (!string.IsNullOrEmpty(ViewBag.ErrorMessage))
+{
+    <div class="alert alert-danger">
+        @ViewBag.ErrorMessage
+    </div>
+}
+
+@if (Model != null && Model.CsvFile != null)
+{
+    @if (Model.FileValue != -1)
+    {
+        <p>File: @Model.FileValue</p>
+    }
+    else
+    {
+        <p>-1</p>
+    }
+}
+</div>
