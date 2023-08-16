@@ -44,3 +44,17 @@ C:\Users\Lungelo Mbalane\Documents\Visual Studio 2022\Asp.Net_MVC_WebApp_New\Asp
 C:\Users\Lungelo Mbalane\Documents\Visual Studio 2022\Asp.Net_MVC_WebApp_New\Asp.Net_Core_MVC_Tests\obj\Debug\net6.0\refint\Asp.Net_Core_MVC_Tests.dll
 C:\Users\Lungelo Mbalane\Documents\Visual Studio 2022\Asp.Net_MVC_WebApp_New\Asp.Net_Core_MVC_Tests\obj\Debug\net6.0\Asp.Net_Core_MVC_Tests.pdb
 C:\Users\Lungelo Mbalane\Documents\Visual Studio 2022\Asp.Net_MVC_WebApp_New\Asp.Net_Core_MVC_Tests\obj\Debug\net6.0\ref\Asp.Net_Core_MVC_Tests.dll
+C:\Users\Lungelo Mbalane\Documents\Visual Studio 2022\Asp.Net_MVC_WebApp_New\Asp.Net_Core_MVC_Tests\bin\Debug\net6.0\NUnit.VisualStudio.TestAdapter.dll
+C:\Users\Lungelo Mbalane\Documents\Visual Studio 2022\Asp.Net_MVC_WebApp_New\Asp.Net_Core_MVC_Tests\bin\Debug\net6.0\Mono.Cecil.dll
+C:\Users\Lungelo Mbalane\Documents\Visual Studio 2022\Asp.Net_MVC_WebApp_New\Asp.Net_Core_MVC_Tests\bin\Debug\net6.0\Mono.Cecil.Mdb.dll
+C:\Users\Lungelo Mbalane\Documents\Visual Studio 2022\Asp.Net_MVC_WebApp_New\Asp.Net_Core_MVC_Tests\bin\Debug\net6.0\Mono.Cecil.Pdb.dll
+C:\Users\Lungelo Mbalane\Documents\Visual Studio 2022\Asp.Net_MVC_WebApp_New\Asp.Net_Core_MVC_Tests\bin\Debug\net6.0\Mono.Cecil.Rocks.dll
+C:\Users\Lungelo Mbalane\Documents\Visual Studio 2022\Asp.Net_MVC_WebApp_New\Asp.Net_Core_MVC_Tests\bin\Debug\net6.0\nunit.core.dll
+C:\Users\Lungelo Mbalane\Documents\Visual Studio 2022\Asp.Net_MVC_WebApp_New\Asp.Net_Core_MVC_Tests\bin\Debug\net6.0\nunit.core.interfaces.dll
+C:\Users\Lungelo Mbalane\Documents\Visual Studio 2022\Asp.Net_MVC_WebApp_New\Asp.Net_Core_MVC_Tests\bin\Debug\net6.0\nunit.util.dll
+C:\Users\Lungelo Mbalane\Documents\Visual Studio 2022\Asp.Net_MVC_WebApp_New\Asp.Net_Core_MVC_Tests\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\Users\Lungelo Mbalane\Documents\Visual Studio 2022\Asp.Net_MVC_WebApp_New\Asp.Net_Core_MVC_Tests\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\Users\Lungelo Mbalane\Documents\Visual Studio 2022\Asp.Net_MVC_WebApp_New\Asp.Net_Core_MVC_Tests\bin\Debug\net6.0\nunit.engine.dll
+C:\Users\Lungelo Mbalane\Documents\Visual Studio 2022\Asp.Net_MVC_WebApp_New\Asp.Net_Core_MVC_Tests\bin\Debug\net6.0\nunit.engine.api.dll
+C:\Users\Lungelo Mbalane\Documents\Visual Studio 2022\Asp.Net_MVC_WebApp_New\Asp.Net_Core_MVC_Tests\bin\Debug\net6.0\nunit.engine.core.dll
+C:\Users\Lungelo Mbalane\Documents\Visual Studio 2022\Asp.Net_MVC_WebApp_New\Asp.Net_Core_MVC_Tests\bin\Debug\net6.0\testcentric.engine.metadata.dll

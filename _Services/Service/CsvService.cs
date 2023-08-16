@@ -18,7 +18,7 @@ namespace _Services.Service
                 return false;
 
             // Check the file extension 
-            var allowedExtensions = new[] { ".csv", ".txt" };
+            var allowedExtensions = new[] { ".csv"};
             var fileExtension = Path.GetExtension(file.FileName).ToLowerInvariant();
 
             if (!allowedExtensions.Contains(fileExtension))

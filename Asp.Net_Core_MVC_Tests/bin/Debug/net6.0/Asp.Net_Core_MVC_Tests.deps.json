@@ -9,7 +9,9 @@
       "Asp.Net_Core_MVC_Tests/1.0.0": {
         "dependencies": {
           "Asp.Net_Core_MVC_WebApp": "1.0.0",
-          "NUnit": "3.13.3"
+          "NUnit": "3.13.3",
+          "NUnit3TestAdapter": "4.5.0",
+          "NUnitTestAdapter": "2.3.0"
         },
         "runtime": {
           "Asp.Net_Core_MVC_Tests.dll": {}
@@ -97,6 +99,8 @@
           }
         }
       },
+      "NUnit3TestAdapter/4.5.0": {},
+      "NUnitTestAdapter/2.3.0": {},
       "System.Buffers/4.5.0": {},
       "System.ComponentModel.Annotations/4.5.0": {},
       "System.Diagnostics.EventLog/6.0.0": {},
@@ -225,6 +229,20 @@
       "sha512": "sha512-KNPDpls6EfHwC3+nnA67fh5wpxeLb3VLFAfLxrug6JMYDLHH6InaQIWR7Sc3y75d/9IKzMksH/gi08W7XWbmnQ==",
       "path": "nunit/3.13.3",
       "hashPath": "nunit.3.13.3.nupkg.sha512"
+    },
+    "NUnit3TestAdapter/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-s8JpqTe9bI2f49Pfr3dFRfoVSuFQyraTj68c3XXjIS/MRGvvkLnrg6RLqnTjdShX+AdFUCCU/4Xex58AdUfs6A==",
+      "path": "nunit3testadapter/4.5.0",
+      "hashPath": "nunit3testadapter.4.5.0.nupkg.sha512"
+    },
+    "NUnitTestAdapter/2.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-I45o6jTH2CY5z8LtflmJn5DsFhzcDxjDlSm3NE6CUsc9Ms8nvA+1wqRmcXpu7uV3IcGK8mSHVr9nBwDbL8jw4A==",
+      "path": "nunittestadapter/2.3.0",
+      "hashPath": "nunittestadapter.2.3.0.nupkg.sha512"
     },
     "System.Buffers/4.5.0": {
       "type": "package",
